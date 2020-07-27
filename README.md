@@ -1,2 +1,10 @@
 # AntiPhishing-Java-Application
-Desktop Application for Scanning of Phishing Mails. Uses Java Swing, Selenium, Chrome Driver and Mail API
+Desktop Application for Scanning of Phishing Mails.
+
+Tech Stack:
+Java Swing
+Selenium
+Mail API for Java
+
+Video of Implimentation:
+[![AntiPhishing-Java-Application](screenshot.jpg)](https://youtu.be/yxk5ApVjv2A "AntiPhishing-Java-Application")
